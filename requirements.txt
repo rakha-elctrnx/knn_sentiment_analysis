@@ -1,0 +1,9 @@
+streamlit
+mysql-connector-python
+google-api-python-client
+pandas
+numpy
+scikit-learn
+nltk
+Sastrawi
+python-dotenv
